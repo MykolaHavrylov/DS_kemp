@@ -1,4 +1,6 @@
 {
   "jupyter.jupyterServerType": "local",
-  "python.formatting.provider": "black"
+  "python.formatting.provider": "black",
+  "python.jediEnabled": true,
+  "python.languageServer": "Jedi"
 }
