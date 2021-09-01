@@ -1,6 +1,7 @@
 # own .gitignpre files
 .vscode/
 pytest/
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
