@@ -2,6 +2,8 @@
 .vscode/
 pytest/
 data/
+img/
+USE/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
